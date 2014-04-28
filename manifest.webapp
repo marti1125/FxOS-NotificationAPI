@@ -1,0 +1,25 @@
+{
+	"name": "Not",
+	"description": "Notification",
+	"version": "0.1",
+	"launch_path": "/index.html",
+	"icons": {
+		"120": "/icons/120.png",
+    	"60": "/icons/60.png"
+	},
+	"orientation": ["portrait"],
+	"developer": {
+		"name": "Willy Aguirre",
+		"url": "https://github.com/marti1125"
+	},
+	"locales": {
+		"en-US": {
+			"name": "Not",
+			"description": "Notification"
+		}
+	},
+	"default_locale": "en-US",
+	"permissions": {
+	    "desktop-notification":{}
+	}
+}
